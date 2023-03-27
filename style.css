@@ -1,3 +1,4 @@
+
 header{
     background-image:url(img/pattern.png);
     background-color: rgb(43, 175, 220);
@@ -16,9 +17,48 @@ h2{
     margin-top: 0;
     opacity: 0.5;
 }
- span{
+.testo-evidenziato{
+    background-color: yellow;
+}
+ .Booleaners{
     color: rgb(43, 175, 220);
  }
  h1,.photo-comment{
     margin: 0;
  }
+ .big-text{
+    font-size:20px;
+ }
+ .text-left{
+    text-align: left;
+ }
+ table{
+    width:100%;
+  height:auto;
+  table-layout:fixed;
+  border-spacing: 0;
+}
+ thead{
+    color: white;
+    background-color: blue;
+}
+.light-blue{
+    background-color: rgba(43, 175,220, 0.5);
+}
+.square{
+    width:350px ;
+    height:300px;
+}
+.testo-footer{
+    color: white;
+    font-size:30px;
+  
+}
+.monitor{
+    background-image: url(img/monitor.jpg);
+    background-size:cover;
+}
+.graph{
+    background-image: url(img/graph.jpg);
+    background-size:cover;
+}
